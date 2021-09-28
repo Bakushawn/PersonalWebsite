@@ -1,4 +1,33 @@
-p {
+h1{
+	font-family: 'Lobster', cursive;
+}
+.Leckerli{
 	font-family: 'Leckerli One', cursive;
-	color: blue;
+}
+.Fruktur{
+	font-family: 'Fruktur', cursive;
+}
+.Abril{
+	font-family: 'Abril Fatface', cursive;
+}
+.Lobster{
+	font-family: 'Lobster', cursive;
+}
+.ExploraSmall{
+	font-family: 'Explora', cursive;
+	font-size: 1em;
+}
+.ExploraBig{
+	font-family: 'Explora', cursive;
+	font-size: 4em;
+}
+.ExploraBlue{
+	font-family: 'Explora', cursive;
+	font-size: 4em;
+	color:blue;
+}
+.Big{
+	font-family: 'Fruktur', cursive;
+	font-size: 10em;
+	color:red;
 }
